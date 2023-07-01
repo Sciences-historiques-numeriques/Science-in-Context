@@ -1,0 +1,21 @@
+name: py310_nlp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - pandas
+  - nltk
+  - python-levenshtein
+  - scikit-learn
+  - spacy
+  - psycopg2
+  - ca-certificates
+  - certifi
+  - openssl
+  - textacy
+  - seaborn
+  - itables
+  - lxml
+prefix: /home/francesco/miniconda3/envs/py310_nlp

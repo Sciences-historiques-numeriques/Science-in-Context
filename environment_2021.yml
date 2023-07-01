@@ -1,0 +1,16 @@
+name: py37_astronomy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - ipykernel
+  - rdflib
+  - sparqlwrapper
+  - lxml
+  - pandas
+  - matplotlib
+  - ipywidgets
+  - ipympl
+  - ipyleaflet
+  - fuzzywuzzy

@@ -1,0 +1,108 @@
+/* css rules for the various popups on the site */
+
+.tippy-tooltip.translation-theme {
+  background-color: #FFCCCC;
+  color: #000000;
+  padding: 5px;
+}
+.tippy-tooltip.translation-theme[data-placement^='top'] .tippy-arrow {
+  border-top-color: #FFCCCC;
+}
+.tippy-tooltip.translation-theme[data-placement^='bottom'] .tippy-arrow {
+  border-bottom-color: #FFCCCC;
+}
+.tippy-tooltip.translation-theme[data-placement^='left'] .tippy-arrow {
+  border-left-color: #FFCCCC;
+}
+.tippy-tooltip.translation-theme[data-placement^='right'] .tippy-arrow {
+  border-right-color: #FFCCCC;
+}
+
+.tippy-tooltip.reference-theme {
+  background-color: #FFFF99;
+  color: #000000;
+  padding: 5px;
+}
+.tippy-tooltip.reference-theme[data-placement^='top'] .tippy-arrow {
+  border-top-color: #FFFF99;
+}
+.tippy-tooltip.reference-theme[data-placement^='bottom'] .tippy-arrow {
+  border-bottom-color: #FFFF99;
+}
+.tippy-tooltip.reference-theme[data-placement^='left'] .tippy-arrow {
+  border-left-color: #FFFF99;
+}
+.tippy-tooltip.reference-theme[data-placement^='right'] .tippy-arrow {
+  border-right-color: #FFFF99;
+}
+
+.tippy-tooltip.mlink-theme {
+  background-color: #CCDDFF;
+  color: #000000;
+  padding: 5px;
+}
+.tippy-tooltip.mlink-theme[data-placement^='top'] .tippy-arrow {
+  border-top-color: #CCDDFF;
+}
+.tippy-tooltip.mlink-theme[data-placement^='bottom'] .tippy-arrow {
+  border-bottom-color: #CCDDFF;
+}
+.tippy-tooltip.mlink-theme[data-placement^='left'] .tippy-arrow {
+  border-left-color: #CCDDFF;
+}
+.tippy-tooltip.mlink-theme[data-placement^='right'] .tippy-arrow {
+  border-right-color: #CCDDFF;
+}
+
+.tippy-tooltip.gllink-theme {
+  background-color: #CCFFD9;
+  color: #000000;
+  padding: 5px;
+}
+.tippy-tooltip.gllink-theme[data-placement^='top'] .tippy-arrow {
+  border-top-color: #CCFFD9;
+}
+.tippy-tooltip.gllink-theme[data-placement^='bottom'] .tippy-arrow {
+  border-bottom-color: #CCFFD9;
+}
+.tippy-tooltip.gllink-theme[data-placement^='left'] .tippy-arrow {
+  border-left-color: #CCFFD9;
+}
+.tippy-tooltip.gllink-theme[data-placement^='right'] .tippy-arrow {
+  border-right-color: #CCFFD9;
+}
+
+.tippy-tooltip .biography-thumbnail {
+  width: initial;
+  max-width: 100px;
+  max-height: 150px;
+  margin: 10px;
+}
+
+.tippy-tooltip.other-theme {
+  background-color: #ffbaf9;
+  color: #000000;
+  padding: 5px;
+}
+.tippy-tooltip.other-theme .row {
+  margin: 0px;
+}
+.tippy-tooltip.other-theme dl dt {
+  float: left;
+  margin-right: 10px;
+}
+.tippy-tooltip.other-theme dl dd {
+  float: left;
+}
+.tippy-tooltip.other-theme[data-placement^='top'] .tippy-arrow {
+  border-top-color: #ffbaf9;
+}
+.tippy-tooltip.other-theme[data-placement^='bottom'] .tippy-arrow {
+  border-bottom-color: #ffbaf9;
+}
+.tippy-tooltip.other-theme[data-placement^='left'] .tippy-arrow {
+  border-left-color: #ffbaf9;
+}
+.tippy-tooltip.other-theme[data-placement^='right'] .tippy-arrow {
+  border-right-color: #ffbaf9;
+}

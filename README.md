@@ -1,3 +1,2 @@
-# Astronomy-in-Context
-
-A research project in digital intellectual history
+# Early-Modern-Astronomy
+A project devoted to charting the field of astronomy in Early Modern Europe and beyond

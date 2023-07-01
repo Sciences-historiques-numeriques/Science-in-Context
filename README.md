@@ -1,3 +1,3 @@
 # Astronomy-in-Context
 
-A project in digital intellectual history
+A research project in digital intellectual history

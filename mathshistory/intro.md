@@ -1,6 +1,6 @@
 # Produce biographical information from a corpus of biographical notes
 
-The aim of this project is to extract biographical information from the biographical notes published on the [MacTutor website](https://mathshistory.st-andrews.ac.uk/Biographies/chronological) experimenting with different NLP approaches.
+The aim of this project is to extract biographical information from the biographical notes published on the [MacTutor website](https://mathshistory.st-andrews.ac.uk/Biographies/chronological) and, at the same time, experimenting with different NLP approaches to achieve this goal.
 
 These texts are published under Creative Commons License 4.0 BY SA (cf. [Copyright Information on the original website](https://mathshistory.st-andrews.ac.uk/Miscellaneous/copyright/)) and can thus be used for the present project.
 
@@ -11,11 +11,11 @@ Then to retrieve temporal relationships and biographical information expressend 
 
 ## Data acquisition and transformation
 
-### explore.ipynb
+### maths_explore.ipynb
 
-Explore the chronological list of mathematicians and prepare data import
+Explore the chronological list of mathematicians and prepare data acquisition
 
-### import.ipynb
+### maths_import.ipynb
 
 Import the texts into a PostgreSQL database 
 

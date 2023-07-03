@@ -32,6 +32,9 @@ pip install crosslingual-coreference
 
 python -m spacy download en_core_web_lg
 
+### https://github.com/explosion/spacy-transformers
+pip install 'spacy[transformers]'
+python -m spacy download en_core_web_trf  ### n'a pas de vecteur mais plus précis
 
 pip install coreferee
 python -m coreferee install en
@@ -41,6 +44,13 @@ pip install pandas psycopg2
 
 pip install neuralcoref
 pip install neuralcoref --use-pep517
+
+pip install spacyopentapioca
+
+pip install spacy-entity-linker
+python -m spacy_entity_linker "download_knowledge_base"
+
+
 ```
 
 ### Using the environment
